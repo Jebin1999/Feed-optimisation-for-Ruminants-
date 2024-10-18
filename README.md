@@ -27,7 +27,7 @@ The project consists of the following key components:
 - **Pie Chart**: Displays the proportions of each ingredient in the optimized feed mix.
 - **Bar Chart**: Shows how each feed ingredient contributes to the total amounts of protein, fat, fiber, and energy.
 
-![Feed Mix Visualization](path-to-your-pie-chart-image.png)
+![Feed Mix Visualization](feedopt2.jpg)
 
 ---
 
