@@ -93,7 +93,7 @@ Here’s an example of the optimized feed mix and its visual representation:
     - Hay: 60%
 - **Total Cost**: $14.00 per kg
 
-![Nutritional Contribution Visualization](path-to-your-bar-chart-image.png)
+
 
 ---
 
